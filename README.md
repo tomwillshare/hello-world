@@ -1,2 +1,2 @@
 # hello-world
-first res
+first respository in github
